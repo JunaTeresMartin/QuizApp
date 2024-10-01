@@ -1,0 +1,37 @@
+.container {
+  background: #e6e6fa;
+  width: 600px;
+  margin: auto;
+  border: 2px solid #967bb6;
+  border-radius: 15px;
+  padding: 40px 50px;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.container hr {
+  height: 2px;
+  background: #967bb6;
+  border: none;
+}
+.container h2 {
+  font-size: 27px;
+  font-weight: 500px;
+}
+
+.container ul li {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  padding-left: 15px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.container ul li :hover {
+  color: blueviolet;
+}
