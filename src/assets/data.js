@@ -1,0 +1,42 @@
+export const data =[
+    {
+        question : "Which of the following is not a type of computer network?",
+        option1: "LAN",
+        option2 : "WAN",
+        option3 : "MAN",
+        option4 : "TAN",
+        ans : 4,
+    },
+    {
+        question : "What does HTTP stand for?",
+        option1: "HyperText Transfer Protocol",
+        option2 : "HyperText Transmission Protocol",
+        option3 : "HighText Transfer Protocol",
+        option4 : "HighText Transmission Protocol",
+        ans : 1,
+    },
+    {
+        question : "Which data structure uses LIFO (Last In, First Out) principle?",
+        option1: "Queue",
+        option2 : "Stack",
+        option3 : "Array",
+        option4 : "Linked List",
+        ans : 2,
+    },
+    {
+        question : "Which of the following is a non-volatile memory?",
+        option1: "RAM",
+        option2 : "ROM",
+        option3 : "Cache",
+        option4 : "Register",
+        ans : 2,
+    },
+    {
+        question : "Which sorting algorithm has the best average-case time complexity?",
+        option1: "Bubble Sort",
+        option2 : " Quick Sort",
+        option3 : "Merge Sort",
+        option4 : "Insertion Sort",
+        ans : 3,
+    },
+]

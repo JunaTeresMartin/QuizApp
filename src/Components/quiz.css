@@ -16,7 +16,7 @@
   border: none;
 }
 .container h2 {
-  font-size: 27px;
+  font-size: 20px;
   font-weight: 500px;
 }
 
@@ -32,6 +32,19 @@
   cursor: pointer;
 }
 
-.container ul li :hover {
+li :hover {
   color: blueviolet;
+}
+
+ .index {
+  margin: auto;
+  font-size: 18px;
+}
+ .correct{
+  background: #9dc183;
+  border-color: green;
+}
+ .wrong{
+  background:#e57373;
+  border-color: rgb(243, 42, 42);
 }
